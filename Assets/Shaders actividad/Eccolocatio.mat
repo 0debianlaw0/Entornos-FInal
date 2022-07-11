@@ -95,7 +95,7 @@ Material:
     - _Opacity: 0
     - _Parallax: 0.005
     - _QueueOffset: 0
-    - _Radius: 5.69
+    - _Radius: 6.15
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
